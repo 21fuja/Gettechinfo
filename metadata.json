@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI Animation Classroom",
+  "description": "An interactive animation studio and video generator to teach students about AI through step-by-step neural network, computer vision, and transformer simulations, and custom AI-generated lesson videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
